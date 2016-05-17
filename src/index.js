@@ -1,5 +1,3 @@
-import 'babel-polyfill';
-
 import map from './map';
 import filter from './filter';
 

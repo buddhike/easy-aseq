@@ -27,7 +27,5 @@
     "proxyquire": "^1.7.4",
     "sinon": "^1.17.4"
   },
-  "dependencies": {
-    "babel-polyfill": "^6.8.0"
-  }
+  "dependencies": {}
 }
