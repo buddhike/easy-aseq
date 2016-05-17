@@ -1,12 +1,9 @@
 {
   "name": "easy-aseq",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Async sequence helpers.",
   "author": "Buddhike de Silva",
   "license": "ISC",
-  "files": [
-    "dist"
-  ],
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src/ -d dist/ --source-maps",
