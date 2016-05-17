@@ -9,7 +9,7 @@ export default async (seq, iterator) => {
     const p = pending[i];
     const r = await (p.promise);
     if (r) {
-      filtered.push(pending.item);
+      filtered.push(p.item);
     }
   }
 
