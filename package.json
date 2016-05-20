@@ -1,6 +1,6 @@
 {
   "name": "easy-aseq",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Async sequence helpers.",
   "author": "Buddhike de Silva",
   "license": "MIT",
