@@ -21,4 +21,11 @@ describe('map', () => {
       r.should.eql([1]);
     });
   });
+
+  describe('map does not return a value', () => {
+    it('should return an array with undefined', async () => {
+      const r = await map([1], async () => {});
+      r.should.eql([undefined]);
+    });
+  });
 });
