@@ -26,7 +26,10 @@
     "nodemon": "^1.9.2",
     "parallelshell": "^2.0.0",
     "proxyquire": "^1.7.4",
+    "q": "^1.4.1",
     "sinon": "^1.17.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "easy-ensure": "0.0.3"
+  }
 }
